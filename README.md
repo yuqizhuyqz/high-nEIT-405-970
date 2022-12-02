@@ -5,7 +5,6 @@
 
 ## data acquisition code
 `copyscanPZT-YZ`
-- used for EIT spectroscopy
 - scan the 970-ecdl via its piezo while recording wavemeter's reading
 - software timed via `sleep()`
   - sets delay between data points--changing PZT and reading wavemeter
@@ -51,7 +50,7 @@ wrappers
   - generate optical pumping plots
 - `QDfects`
   - need line data files, e.g., `nSnD7090.mat`
-  - generates fit to energy levels and plot
+  - generate fit to energy levels and plot
 - `convertstuff2table` 
   - convert stuff to latex tables as .txt
 
