@@ -17,8 +17,14 @@
 ### workflow
 data file `scan%d.mat`[^0] &rarr; analysis file `scan%danalysis.mat` &rarr; line data files [^1] (e.g., `nSnD7090.mat`) &rarr; make paper plots
 
-[^0]:`%d` is the scan index. see lab notes for which scan is which.
+[^0]:`%d` is the scan index. see lab notes on labarchives for which scan is which. 
 [^1]: depending on what's analyzed/saved
+
+### data saved @
+- Google Drive/Shared drives/RAY/data/August2021/0823 
+- Google Drive/Shared drives/RAY/data/August2021/0825
+- Google Drive/Shared drives/RAY/data/August2021/0830
+
 
 ### functions
 fitting functions
