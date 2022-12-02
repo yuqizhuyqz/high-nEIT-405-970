@@ -1,7 +1,7 @@
 # EIT
 
 ### related work
- Y. Zhu, S. Ghosh, S.B. Cahn, M.J. Jewell, D. H. Speller, R.H. Maruyama, "EIT spectroscopy of high-lying Rydberg states in <sup>39</sup>K", [Phys. Rev. A 105, 042808, 2022] (https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042808)
+ Y. Zhu, S. Ghosh, S.B. Cahn, M.J. Jewell, D. H. Speller, R.H. Maruyama, "EIT spectroscopy of high-lying Rydberg states in <sup>39</sup>K", [Phys. Rev. A 105, 042808, 2022](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042808)
 
 ## data acquisition code
 `copyscanPZT-YZ`
