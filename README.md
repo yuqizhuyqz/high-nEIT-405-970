@@ -12,7 +12,7 @@
   -  min ~ 10 ms according to rumors
 - typically, when starting from scratch, `mean_voltage` in the main function is to be found manually
   
-## analysis 
+## analysis code
 
 ### workflow
 data file `scan%d.mat`[^0] &rarr; analysis file `scan%danalysis.mat` &rarr; line data files [^1] (e.g., `nSnD7090.mat`) &rarr; make paper plots
