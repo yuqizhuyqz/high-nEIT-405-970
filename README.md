@@ -15,7 +15,7 @@
 ## analysis code
 
 ### workflow
-data file `scan%d.mat`[^0] &rarr; analysis file `scan%danalysis.mat` &rarr; line data files [^1] (e.g., `nSnD7090.mat`) &rarr; make paper plots
+data file `scan%d.mat`[^0] &rarr; intermediate results `scan%danalysis.mat` &rarr; line data files [^1] (e.g., `nSnD7090.mat`) &rarr; make paper plots
 
 [^0]:`%d` is the scan index. see lab notes on labarchives for which scan is which. 
 [^1]: depending on what's analyzed/saved
