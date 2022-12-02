@@ -1,4 +1,5 @@
 % import .mat file as data
+dirG='/Users/JimCasy/Google Drive/Shared drives/RAY/data/August2021/0825'; addpath(dirG);
 filename='scan1.mat';
 data=load(filename);
 % add file name (w/o extension) as a property
