@@ -20,11 +20,14 @@ data file `scan%d.mat`[^0] &rarr; analysis file `scan%danalysis.mat` &rarr; line
 [^0]:`%d` is the scan index. see lab notes on labarchives for which scan is which. 
 [^1]: depending on what's analyzed/saved
 
-### data saved @
-- Google Drive/Shared drives/RAY/data/August2021/0823 
-- Google Drive/Shared drives/RAY/data/August2021/0825
-- Google Drive/Shared drives/RAY/data/August2021/0830
+### file locations
+- data files @
+ - Google Drive/Shared drives/RAY/data/August2021/0823 
+ - Google Drive/Shared drives/RAY/data/August2021/0825
+ - Google Drive/Shared drives/RAY/data/August2021/0830
 
+-intermediate results of each scan saved in the same dir [^2]
+[^2]: not ideal but assumed in some parts of the code. 
 
 ### functions
 fitting functions
