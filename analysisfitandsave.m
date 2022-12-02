@@ -1,6 +1,3 @@
-% add data folder and analysis folder to path
-dirG='/Users/JimCasy/Google Drive/Shared drives/RAY/data/August2021/0825';
-addpath(dirG,'/Users/JimCasy/Documents/now!/EIT');
 % import .mat file as data
 filename='scan1.mat';
 data=load(filename);
