@@ -22,11 +22,11 @@ data file `scan%d.mat`[^0] &rarr; analysis file `scan%danalysis.mat` &rarr; line
 
 ### file locations
 - data files @
- - Google Drive/Shared drives/RAY/data/August2021/0823 
- - Google Drive/Shared drives/RAY/data/August2021/0825
- - Google Drive/Shared drives/RAY/data/August2021/0830
+  - Google Drive/Shared drives/RAY/data/August2021/0823 
+  - Google Drive/Shared drives/RAY/data/August2021/0825
+  - Google Drive/Shared drives/RAY/data/August2021/0830
 
--intermediate results of each scan saved in the same dir [^2]
+- intermediate results of each scan saved in the same dir [^2]
 [^2]: not ideal but assumed in some parts of the code. 
 
 ### functions
