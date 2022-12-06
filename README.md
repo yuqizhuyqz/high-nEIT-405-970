@@ -24,7 +24,7 @@ data file `scan%d.mat`[^0] &rarr; intermediate results `scan%danalysis.mat` &rar
   - Google Drive/Shared drives/RAY/data/August2021/0823 
   - Google Drive/Shared drives/RAY/data/August2021/0825
   - Google Drive/Shared drives/RAY/data/August2021/0830
-  - now individually zipped and included in the `data` folder
+  - now individually zipped and included in the `data\` folder
 
 - intermediate results of each scan saved in the same dir [^2]
 [^2]: not ideal but assumed in some parts of the code. 
