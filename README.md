@@ -4,7 +4,7 @@
  Y. Zhu, S. Ghosh, S.B. Cahn, M.J. Jewell, D. H. Speller, R.H. Maruyama, "EIT spectroscopy of high-lying Rydberg states in <sup>39</sup>K", [Phys. Rev. A 105, 042808, 2022](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.042808)
 
 ## data acquisition code
-`copyscanPZT-YZ`
+`copyscanPZT-YZ()`
 - scan the 970-ecdl via its piezo while recording wavemeter's reading
 - software timed via `sleep()`
   - sets delay between data points--changing PZT and reading wavemeter
@@ -31,12 +31,12 @@ data file `scan%d.mat`[^0] &rarr; intermediate results `scan%danalysis.mat` &rar
 
 ### functions
 fitting functions
-- `doublegaussianfit`
-- `quadruplegaussianfit`
-- `fitRylevels`
+- `doublegaussianfit()`
+- `quadruplegaussianfit()`
+- `fitRylevels()`
 
 plot function for an individual spectrum
-- `plotandlabel`
+- `plotandlabel()`
 
 wrappers
 - `analysisfitandsave`
